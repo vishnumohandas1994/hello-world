@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, VishnuMohandas1994 </h1>
-   <h1> Thankyou, Learning CI/CD   For interview Need to clear it  </h1>	
+   <h1> Thankyou  </h1>	
   
 </form>

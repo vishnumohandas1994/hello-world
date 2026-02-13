@@ -5,6 +5,8 @@
     <hr>
      
     <label for="Name1994"><b>Enter Name</b></label>
+	<br>
+	
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
